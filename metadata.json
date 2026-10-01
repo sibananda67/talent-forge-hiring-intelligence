@@ -1,0 +1,6 @@
+{
+  "name": "Talent Forge — Hiring Friction Intelligence Control Center",
+  "description": "AI-Powered Recruiting Intelligence & Outreach Automation orchestrating Apify search ingestion, company validation, hiring friction research, Hunter contact enrichment, verified email gating, and Saleshandy campaign outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
